@@ -1,0 +1,2 @@
+- alive
+- head of [[magnus institute]]
