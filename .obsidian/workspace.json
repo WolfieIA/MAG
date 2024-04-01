@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG002 - do not open.md",
+                "file": "cases/MAG003 - across the street.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG002 - do not open.md",
+                "file": "cases/MAG003 - across the street.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG002 - do not open.md",
+                "file": "cases/MAG003 - across the street.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG002 - do not open.md"
+                "file": "cases/MAG003 - across the street.md"
               }
             }
           }
@@ -151,11 +151,17 @@
   },
   "active": "32ba0cfa4eb7fa22",
   "lastOpenFiles": [
-    "cases/MAG001 - anglerfish.md",
+    "cases/MAG008 - burned out.md",
+    "cases/MAG009 - a father's love.md",
+    "cases/MAG010 - vampire killer.md",
+    "characters/witness/amy patel.md",
+    "characters/witness/kieran woodward.md",
+    "characters/witness/nathan watts.md",
+    "characters/witness/joshua gillespie.md",
     "cases/MAG002 - do not open.md",
+    "cases/MAG001 - anglerfish.md",
     "cases/MAG003 - across the street.md",
     "characters/graham folger.md",
-    "characters/witness/nathan watts.md",
     "characters/witness/timothy hodge.md",
     "characters/witness/trevor herbert.md",
     "characters/elias bouchard.md",
@@ -163,23 +169,17 @@
     "locations/york road, dartford.md",
     "organisations/breekon and hope.md",
     "locations/amsterdam, bournemouth.md",
-    "characters/witness/kieran woodward.md",
     "templates/witness template.md",
     "cases/MAG005 - thrown away.md",
     "artifacts/do not open coffin.md",
     "characters/jonathan sims.md",
     "templates",
-    "cases/MAG009 - a father's love.md",
-    "cases/MAG010 - vampire killer.md",
     "cases/MAG004 - pageturner.md",
     "!directory/witness list.md",
     "characters/witness",
     "!directory/cases by date.md",
     "!directory",
-    "characters/witness/joshua gillespie.md",
     "characters/gertrude robinson.md",
-    "cases/MAG008 - burned out.md",
-    "artifacts/the table.md",
     "artifacts",
     "locations/Untitled",
     "organisations",

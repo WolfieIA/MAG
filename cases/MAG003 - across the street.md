@@ -16,6 +16,10 @@ date: 2007-07-01
 	- weird noises in the pipes
 - thrown into the streets
 - saw hooks and a window box
+- creature observed:
+	- long, thin arms
+	- 4 arms and legs
+- grey
 
 ## themes
 [[smoke]] | [[missing]] 
