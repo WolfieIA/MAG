@@ -2,6 +2,7 @@
 tags:
   - case
 date: 2012-04-22
+location:
 ---
 - location - [[old fishmarket close, edinburgh]]
 - witness - [[nathan watts]]

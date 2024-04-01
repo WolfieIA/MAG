@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "york road, dartford.md",
+                "file": "cases/MAG001 - anglerfish.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "york road, dartford.md",
+                "file": "cases/MAG001 - anglerfish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "york road, dartford.md",
+                "file": "cases/MAG001 - anglerfish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "york road, dartford.md"
+                "file": "cases/MAG001 - anglerfish.md"
               }
             }
           }
@@ -144,13 +144,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "32ba0cfa4eb7fa22",
   "lastOpenFiles": [
-    "cases/MAG009 - a father's love.md",
+    "templates/witness template.md",
+    "organisations/magnus institute.md",
+    "characters/jonathan sims.md",
+    "characters/graham folger.md",
+    "characters/elias bouchard.md",
+    "templates",
     "york road, dartford.md",
+    "cases/MAG009 - a father's love.md",
     "trevor herbert.md",
     "cases/MAG010 - vampire killer.md",
     "kieran woodward.md",
@@ -160,7 +167,6 @@
     "characters/witness",
     "!directory/cases by date.md",
     "!directory",
-    "characters/jonathan sims.md",
     "characters/witness/joshua gillespie.md",
     "characters/witness/nathan watts.md",
     "characters/gertrude robinson.md",
@@ -170,13 +176,9 @@
     "artifacts/do not open coffin.md",
     "cases/MAG003 - across the street.md",
     "cases/MAG002 - do not open.md",
-    "characters/graham folger.md",
     "cases/MAG007 - the piper.md",
     "cases/MAG006 - squirm.md",
     "cases/MAG001 - anglerfish.md",
-    "characters/witness/amy patel.md",
-    "characters/elias bouchard.md",
-    "conflict-files-obsidian-git.md",
     "artifacts",
     "locations/Untitled",
     "organisations",
