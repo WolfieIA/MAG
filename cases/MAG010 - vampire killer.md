@@ -1,8 +1,9 @@
 ---
 tags:
   - case
+date: 2010-07-10
 ---
-- witness - [[amy patel]]
-- location - [[clapham, london]]
+- witness - [[trevor herbert]]
+- location - [[manchester]]
 ## main points
 - 
