@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/nathan watts.md",
+                "file": "characters/amy patel.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "artifacts/the table.md",
+                "file": "cases by date.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/nathan watts.md",
+                "file": "characters/amy patel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/nathan watts.md",
+                "file": "characters/amy patel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/nathan watts.md"
+                "file": "characters/amy patel.md"
               }
             }
           }
@@ -173,33 +173,33 @@
   },
   "active": "ae24ed85711b0a1f",
   "lastOpenFiles": [
+    "cases/MAG004 - pageturner.md",
+    "cases/MAG003 - across the street.md",
+    "cases/MAG005 - thrown away.md",
+    "artifacts/ex altiora.md",
+    "cases by date.md",
+    "organisations/magnus institute.md",
+    "organisations/breekon and hope.md",
+    "locations/old fishmarket close, edinburgh.md",
+    "locations/clapham, london.md",
+    "locations/amsterdam, bournemouth.md",
+    "cases/MAG010 - vampire killer.md",
+    "cases/MAG008 - burned out.md",
+    "cases/MAG007 - the piper.md",
+    "cases/MAG006 - squirm.md",
+    "cases/MAG002 - do not open.md",
+    "cases/MAG001 - anglerfish.md",
+    "artifacts/the table.md",
+    "artifacts/do not open coffin.md",
+    "characters/nathan watts.md",
     "characters/joshua gillespie.md",
     "characters/jonathan sims.md",
     "characters/graham folger.md",
     "characters/gertrude robinson.md",
     "characters/elias bouchard.md",
     "characters/amy patel.md",
-    "cases/MAG010 - vampire killer.md",
     "cases/MAG009 - a father's love.md",
-    "cases/MAG008 - burned out.md",
-    "cases/MAG007 - the piper.md",
-    "cases/MAG006 - squirm.md",
-    "cases/MAG005 - thrown away.md",
-    "cases/MAG004 - pageturner.md",
-    "cases by date.md",
-    "cases/MAG003 - across the street.md",
-    "organisations/magnus institute.md",
-    "cases/MAG001 - anglerfish.md",
-    "artifacts/the table.md",
-    "organisations/breekon and hope.md",
-    "locations/old fishmarket close, edinburgh.md",
-    "locations/clapham, london.md",
-    "locations/amsterdam, bournemouth.md",
-    "characters/nathan watts.md",
-    "artifacts/do not open coffin.md",
-    "artifacts/ex altiora.md",
     "artifacts",
-    "cases/MAG002 - do not open.md",
     "locations/Untitled",
     "organisations",
     "cases",
