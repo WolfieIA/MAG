@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG003 - across the street.md",
+                "file": "characters/graham folger.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG003 - across the street.md",
+                "file": "characters/graham folger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG003 - across the street.md",
+                "file": "characters/graham folger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG003 - across the street.md"
+                "file": "characters/graham folger.md"
               }
             }
           }
@@ -150,11 +150,13 @@
   },
   "active": "6857d627533c3e84",
   "lastOpenFiles": [
+    "characters/gertrude robinson.md",
+    "characters/elias bouchard.md",
+    "characters/witness/amy patel.md",
     "cases/MAG003 - across the street.md",
     "cases/MAG008 - burned out.md",
     "cases/MAG009 - a father's love.md",
     "cases/MAG010 - vampire killer.md",
-    "characters/witness/amy patel.md",
     "characters/witness/kieran woodward.md",
     "characters/witness/nathan watts.md",
     "characters/witness/joshua gillespie.md",
@@ -163,7 +165,6 @@
     "characters/graham folger.md",
     "characters/witness/timothy hodge.md",
     "characters/witness/trevor herbert.md",
-    "characters/elias bouchard.md",
     "organisations/magnus institute.md",
     "locations/york road, dartford.md",
     "organisations/breekon and hope.md",
@@ -178,7 +179,6 @@
     "characters/witness",
     "!directory/cases by date.md",
     "!directory",
-    "characters/gertrude robinson.md",
     "artifacts",
     "locations/Untitled",
     "organisations",

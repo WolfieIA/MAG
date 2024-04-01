@@ -6,4 +6,5 @@ status:
 ---
 ## character info
 - went missing
-- chainsmoker --> (ref [[MAG001 - anglerfish]])
+- chainsmoker
+- scribbled "keep watching?"
