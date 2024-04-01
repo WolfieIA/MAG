@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG006 - squirm.md",
+                "file": "cases/MAG004 - pageturner.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG006 - squirm.md",
+                "file": "cases/MAG003 - across the street.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG006 - squirm.md",
+                "file": "cases/MAG003 - across the street.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG006 - squirm.md"
+                "file": "cases/MAG003 - across the street.md"
               }
             }
           }
@@ -159,16 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae24ed85711b0a1f",
+  "active": "32ba0cfa4eb7fa22",
   "lastOpenFiles": [
-    "cases/MAG005 - thrown away.md",
     "cases/MAG004 - pageturner.md",
+    "cases by date.md",
     "cases/MAG003 - across the street.md",
+    "cases/MAG005 - thrown away.md",
+    "cases/MAG006 - squirm.md",
+    "cases/MAG007 - the piper.md",
     "cases/MAG010 - vampire killer.md",
     "cases/MAG009 - a father's love.md",
     "cases/MAG008 - burned out.md",
-    "cases/MAG007 - the piper.md",
-    "cases/MAG006 - squirm.md",
     "cases/MAG002 - do not open.md",
     "locations/clapham, london.md",
     "locations/Untitled",
@@ -192,7 +194,6 @@
     "head archivist.md",
     "Untitled.canvas",
     "2024-04-01.md",
-    "Untitled 1.canvas",
-    "Welcome.md"
+    "Untitled 1.canvas"
   ]
 }
