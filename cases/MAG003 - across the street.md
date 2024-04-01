@@ -7,7 +7,8 @@ date: 2007-07-01
 - location - [[clapham, london]]
 ## main points
 - missing case of [[graham folger]]
-	- chainsmoker (similar themes to [[MAG001 - anglerfish]])
+	- chainsmoker 
+		- (similar themes to [[MAG001 - anglerfish]])
 	- scribbled notes aggressively
 	- stared at roofs?
 	- is gay
@@ -16,4 +17,3 @@ date: 2007-07-01
 	- weird noises in the pipes
 - thrown into the streets
 - saw hooks and a window box
-- 
