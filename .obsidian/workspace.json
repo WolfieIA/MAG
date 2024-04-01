@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "artifacts/do not open coffin.md",
+                "file": "organisations/breekon and hope.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "artifacts/do not open coffin.md",
+                "file": "organisations/breekon and hope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artifacts/do not open coffin.md",
+                "file": "organisations/breekon and hope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "artifacts/do not open coffin.md"
+                "file": "organisations/breekon and hope.md"
               }
             }
           }
@@ -150,20 +151,23 @@
   },
   "active": "32ba0cfa4eb7fa22",
   "lastOpenFiles": [
+    "locations/amsterdam, bournemouth.md",
+    "locations/york road, dartford.md",
+    "characters/witness/trevor herbert.md",
+    "characters/witness/timothy hodge.md",
+    "characters/witness/kieran woodward.md",
+    "templates/witness template.md",
+    "cases/MAG005 - thrown away.md",
+    "organisations/magnus institute.md",
+    "artifacts/do not open coffin.md",
     "cases/MAG002 - do not open.md",
     "cases/MAG001 - anglerfish.md",
-    "templates/witness template.md",
-    "organisations/magnus institute.md",
     "characters/jonathan sims.md",
     "characters/graham folger.md",
     "characters/elias bouchard.md",
     "templates",
-    "york road, dartford.md",
     "cases/MAG009 - a father's love.md",
-    "trevor herbert.md",
     "cases/MAG010 - vampire killer.md",
-    "kieran woodward.md",
-    "cases/MAG005 - thrown away.md",
     "cases/MAG004 - pageturner.md",
     "!directory/witness list.md",
     "characters/witness",
@@ -175,10 +179,7 @@
     "cases/MAG008 - burned out.md",
     "artifacts/the table.md",
     "artifacts/ex altiora.md",
-    "artifacts/do not open coffin.md",
     "cases/MAG003 - across the street.md",
-    "cases/MAG007 - the piper.md",
-    "cases/MAG006 - squirm.md",
     "artifacts",
     "locations/Untitled",
     "organisations",

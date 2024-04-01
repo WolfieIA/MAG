@@ -2,6 +2,3 @@
 tags:
   - location
 ---
-
-## cases 
-- 
