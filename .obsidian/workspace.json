@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG004 - pageturner.md",
+                "file": "!directory/cases by date.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG004 - pageturner.md",
+                "file": "!directory/cases by date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG004 - pageturner.md",
+                "file": "!directory/cases by date.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG004 - pageturner.md"
+                "file": "!directory/cases by date.md"
               }
             }
           }
@@ -147,36 +147,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32ba0cfa4eb7fa22",
+  "active": "d2b59b72a1904eee",
   "lastOpenFiles": [
+    "!directory",
+    "characters/jonathan sims.md",
+    "characters/joshua gillespie.md",
+    "characters/nathan watts.md",
+    "characters/gertrude robinson.md",
+    "cases/MAG008 - burned out.md",
+    "artifacts/the table.md",
+    "artifacts/ex altiora.md",
+    "artifacts/do not open coffin.md",
     "cases/MAG003 - across the street.md",
+    "cases/MAG009 - a father's love.md",
+    "cases/MAG002 - do not open.md",
+    "characters/graham folger.md",
+    "cases/MAG004 - pageturner.md",
     "cases/MAG007 - the piper.md",
     "cases/MAG006 - squirm.md",
-    "cases/MAG004 - pageturner.md",
-    "cases/MAG002 - do not open.md",
     "cases/MAG001 - anglerfish.md",
     "characters/amy patel.md",
     "characters/elias bouchard.md",
     "conflict-files-obsidian-git.md",
-    "artifacts/the table.md",
-    "artifacts/ex altiora.md",
-    "artifacts/do not open coffin.md",
     "artifacts",
-    "cases by date.md",
-    "cases/MAG009 - a father's love.md",
+    "!directory/cases by date.md",
     "cases/MAG010 - vampire killer.md",
-    "cases/MAG008 - burned out.md",
     "cases/MAG005 - thrown away.md",
     "locations/clapham, london.md",
     "locations/Untitled",
-    "characters/nathan watts.md",
-    "characters/joshua gillespie.md",
-    "characters/gertrude robinson.md",
-    "characters/graham folger.md",
-    "characters/jonathan sims.md",
     "locations/amsterdam, bournemouth.md",
     "organisations/magnus institute.md",
-    "organisations/breekon and hope.md",
     "organisations",
     "cases",
     "locations",

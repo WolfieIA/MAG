@@ -13,7 +13,7 @@ date: 2007-07-01
 	- stared at roofs?
 	- is gay
 	- both parents died in a car accident
-	- owns antique table with square hole in the centre
+	- owns [[the table]]
 	- weird noises in the pipes
 - thrown into the streets
 - saw hooks and a window box

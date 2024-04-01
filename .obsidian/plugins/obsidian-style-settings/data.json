@@ -1,5 +1,5 @@
 {
-  "ulu-theme-settings@@ulu-theme-dark": "ulu-green-d",
+  "ulu-theme-settings@@ulu-theme-dark": "ulu-blue-d",
   "ulu-theme-settings@@ulu-border": "ulu-noborder",
   "ulu-theme-settings@@ulu-grad": false,
   "ulu-theme-settings@@ulu-bar": true,
@@ -9,7 +9,7 @@
   "ulu-theme-settings@@ulu-colorfo-headings": false,
   "ulu-theme-settings@@ulu-font-title": "Fraunces",
   "ulu-theme-settings@@ulu-color-accent": "ulu-green",
-  "ulu-theme-settings@@ulu-theme-light": "ulu-green-l",
+  "ulu-theme-settings@@ulu-theme-light": "ulu-accent-bg-lowcon-l",
   "ulu-theme-settings@@ulu-subtheme-selection": "ulu-origami",
   "ulu-theme-settings@@ulu-callouts": "ulu-gummy-callouts",
   "ulu-theme-settings@@ulu-font-general": "Inter"

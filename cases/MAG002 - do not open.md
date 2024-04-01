@@ -11,7 +11,7 @@ date: 1998-02-21
 - possession
 - nightmares
 - screaming
-- kept a coffin for almost 2 years
+- kept the [[do not open coffin]] for 2 years
 - [[breekon and hope]]
 
 ## notes
