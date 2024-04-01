@@ -1,8 +1,9 @@
 ---
 tags:
   - archivists
+status:
+  - alive
 ---
 ## character info
-- alive
 - head of [[magnus institute]]
 - 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organisations/breekon and hope.md",
+                "file": "cases/MAG002 - do not open.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organisations/breekon and hope.md",
+                "file": "cases/MAG002 - do not open.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organisations/breekon and hope.md",
+                "file": "cases/MAG002 - do not open.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organisations/breekon and hope.md"
+                "file": "cases/MAG002 - do not open.md"
               }
             }
           }
@@ -151,20 +151,23 @@
   },
   "active": "32ba0cfa4eb7fa22",
   "lastOpenFiles": [
-    "locations/amsterdam, bournemouth.md",
-    "locations/york road, dartford.md",
-    "characters/witness/trevor herbert.md",
+    "cases/MAG001 - anglerfish.md",
+    "cases/MAG002 - do not open.md",
+    "cases/MAG003 - across the street.md",
+    "characters/graham folger.md",
+    "characters/witness/nathan watts.md",
     "characters/witness/timothy hodge.md",
+    "characters/witness/trevor herbert.md",
+    "characters/elias bouchard.md",
+    "organisations/magnus institute.md",
+    "locations/york road, dartford.md",
+    "organisations/breekon and hope.md",
+    "locations/amsterdam, bournemouth.md",
     "characters/witness/kieran woodward.md",
     "templates/witness template.md",
     "cases/MAG005 - thrown away.md",
-    "organisations/magnus institute.md",
     "artifacts/do not open coffin.md",
-    "cases/MAG002 - do not open.md",
-    "cases/MAG001 - anglerfish.md",
     "characters/jonathan sims.md",
-    "characters/graham folger.md",
-    "characters/elias bouchard.md",
     "templates",
     "cases/MAG009 - a father's love.md",
     "cases/MAG010 - vampire killer.md",
@@ -174,12 +177,9 @@
     "!directory/cases by date.md",
     "!directory",
     "characters/witness/joshua gillespie.md",
-    "characters/witness/nathan watts.md",
     "characters/gertrude robinson.md",
     "cases/MAG008 - burned out.md",
     "artifacts/the table.md",
-    "artifacts/ex altiora.md",
-    "cases/MAG003 - across the street.md",
     "artifacts",
     "locations/Untitled",
     "organisations",
