@@ -1,8 +1,9 @@
 ---
 tags:
   - case
+date: 2002-12-03
 ---
-- witness - [[amy patel]]
-- location - [[clapham, london]]
+- witness - [[julia montauk]]
+- location - [[york road, dartford]]
 ## main points
 - 

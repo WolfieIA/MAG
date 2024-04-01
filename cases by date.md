@@ -1,4 +1,5 @@
 ```dataview
-tag:#case
+list
+from #case 
 sort date
 ```

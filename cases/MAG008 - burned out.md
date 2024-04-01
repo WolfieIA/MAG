@@ -1,8 +1,9 @@
 ---
 tags:
   - case
+date: 2007-03-13
 ---
-- witness - [[amy patel]]
-- location - [[clapham, london]]
+- witness - [[ivo lensic]]
+- location - [[hill top road, oxford]]
 ## main points
 - 
