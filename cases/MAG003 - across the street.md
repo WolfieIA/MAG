@@ -19,7 +19,8 @@ date: 2007-07-01
 - creature observed:
 	- long, thin arms
 	- 4 arms and legs
-- grey
-
+	- grey
+	- has the ability to ==**disguise**==
+cuz 
 ## themes
 [[smoke]] | [[missing]] 
