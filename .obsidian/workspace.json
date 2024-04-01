@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG001 - anglerfish.md",
+                "file": "artifacts/do not open coffin.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG001 - anglerfish.md",
+                "file": "artifacts/do not open coffin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG001 - anglerfish.md",
+                "file": "artifacts/do not open coffin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG001 - anglerfish.md"
+                "file": "artifacts/do not open coffin.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "32ba0cfa4eb7fa22",
   "lastOpenFiles": [
+    "cases/MAG002 - do not open.md",
+    "cases/MAG001 - anglerfish.md",
     "templates/witness template.md",
     "organisations/magnus institute.md",
     "characters/jonathan sims.md",
@@ -175,10 +177,8 @@
     "artifacts/ex altiora.md",
     "artifacts/do not open coffin.md",
     "cases/MAG003 - across the street.md",
-    "cases/MAG002 - do not open.md",
     "cases/MAG007 - the piper.md",
     "cases/MAG006 - squirm.md",
-    "cases/MAG001 - anglerfish.md",
     "artifacts",
     "locations/Untitled",
     "organisations",
