@@ -1,3 +1,7 @@
+---
+tags:
+  - organisations
+---
 
 ## general information
 - organisation dedicated to academic research into the esoteric and the paranormal
