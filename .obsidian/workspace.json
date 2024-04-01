@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/amy patel.md",
+                "file": "characters/nathan watts.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/amy patel.md",
+                "file": "characters/nathan watts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/amy patel.md",
+                "file": "characters/nathan watts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/amy patel.md"
+                "file": "characters/nathan watts.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "ae24ed85711b0a1f",
   "lastOpenFiles": [
+    "characters/amy patel.md",
     "cases/MAG004 - pageturner.md",
     "cases/MAG003 - across the street.md",
     "cases/MAG005 - thrown away.md",
@@ -197,7 +198,6 @@
     "characters/graham folger.md",
     "characters/gertrude robinson.md",
     "characters/elias bouchard.md",
-    "characters/amy patel.md",
     "cases/MAG009 - a father's love.md",
     "artifacts",
     "locations/Untitled",
