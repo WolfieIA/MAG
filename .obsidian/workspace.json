@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG007 - the piper.md",
+                "file": "cases/MAG004 - pageturner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5373d665f097aa86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "artifacts/the table.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG007 - the piper.md",
+                "file": "cases/MAG004 - pageturner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG007 - the piper.md",
+                "file": "cases/MAG004 - pageturner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG007 - the piper.md"
+                "file": "cases/MAG004 - pageturner.md"
               }
             }
           }
@@ -161,34 +173,34 @@
   },
   "active": "ae24ed85711b0a1f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "cases/MAG007 - the piper.md",
-    "artifacts/the table.md",
-    "artifacts/ex altiora.md",
-    "artifacts/do not open coffin.md",
-    "artifacts",
-    "cases by date.md",
-    "cases/MAG009 - a father's love.md",
-    "cases/MAG010 - vampire killer.md",
-    "cases/MAG008 - burned out.md",
-    "cases/MAG004 - pageturner.md",
-    "cases/MAG003 - across the street.md",
     "cases/MAG005 - thrown away.md",
-    "cases/MAG006 - squirm.md",
-    "cases/MAG002 - do not open.md",
-    "locations/clapham, london.md",
-    "locations/Untitled",
-    "characters/nathan watts.md",
+    "cases/MAG003 - across the street.md",
+    "cases/MAG004 - pageturner.md",
+    "organisations/magnus institute.md",
+    "cases by date.md",
     "cases/MAG001 - anglerfish.md",
+    "artifacts/the table.md",
+    "organisations/breekon and hope.md",
+    "locations/old fishmarket close, edinburgh.md",
+    "locations/clapham, london.md",
+    "locations/amsterdam, bournemouth.md",
+    "characters/nathan watts.md",
     "characters/joshua gillespie.md",
+    "characters/jonathan sims.md",
+    "characters/graham folger.md",
+    "characters/gertrude robinson.md",
     "characters/amy patel.md",
     "characters/elias bouchard.md",
-    "characters/gertrude robinson.md",
-    "characters/graham folger.md",
-    "characters/jonathan sims.md",
-    "locations/amsterdam, bournemouth.md",
-    "organisations/magnus institute.md",
-    "organisations/breekon and hope.md",
+    "cases/MAG010 - vampire killer.md",
+    "artifacts/do not open coffin.md",
+    "artifacts/ex altiora.md",
+    "artifacts",
+    "cases/MAG008 - burned out.md",
+    "cases/MAG007 - the piper.md",
+    "cases/MAG006 - squirm.md",
+    "cases/MAG002 - do not open.md",
+    "cases/MAG009 - a father's love.md",
+    "locations/Untitled",
     "organisations",
     "cases",
     "locations",
