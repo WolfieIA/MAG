@@ -1,6 +1,6 @@
 ---
 tags:
-  - character
+  - archivists
 status:
   - alive
 ---

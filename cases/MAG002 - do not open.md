@@ -4,7 +4,7 @@ tags:
 date: 1998-02-21
 ---
 - witness - [[joshua gillespie]]
-- location - amsterdam, [[bournemouth]]
+- location - [[amsterdam, bournemouth]]
 
 ## main points
 - two giants and a dwarf (alias - john)

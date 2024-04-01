@@ -4,7 +4,7 @@ tags:
 date: 2007-07-01
 ---
 - witness - [[amy patel]]
-- location - 
+- location - [[clapham, london]]
 ## main points
 - missing case of [[graham folger]]
 	- chainsmoker (similar themes to [[MAG001 - anglerfish]])
