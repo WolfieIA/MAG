@@ -20,7 +20,10 @@ date: 2007-07-01
 	- long, thin arms
 	- 4 arms and legs
 	- grey
-	- has the ability to ==**disguise**==
-cuz 
+	- has the ability to ==**disguise**== and ==**alter reality**==
+
+## quotes
+> _"... he was standing at Graham’s window, looking back at me. I stood there frozen as his wide, staring eyes met mine and a cold, toothy smile spread across his face."_
+>  _"_
 ## themes
 [[smoke]] | [[missing]] 
