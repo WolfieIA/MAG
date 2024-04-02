@@ -36,7 +36,15 @@ witness: "[[lesere saraki]]"
 	- not in english
 	- "Asag, veepalach, the lightless flame."
 	- eyes still closed, lips not barely moving
-	- 
+- at 3am
+	- reception was empty, which is weird
+	- waiting room should have been full, but it's deserted
+	- everyone was essentially missing
+- when she returned to waiting room for 3rd time
+	- she heard growling of an animal
+	- floor was shaking
+	- vending machines were shaking violently and drinks exploded
+- 
 
 ## quotes
 - 
