@@ -41,8 +41,13 @@ witness: "[[trevor herbert]]"
 	- caught fire quickly, and burned it
 	- grabbed the key from the bedroom, and ran
 
+- in 1968,
+	- 
+
 - according to trevor's observations on vampires
 		- more like an animal than a man
 		- they do not speak, having no need for air and no room for a windpipe.
 		- can go out in sunlight, they just avoid direct sunlight
 		- don't reproduce by feeding, not sure how
+
+## quotes
