@@ -19,8 +19,14 @@ witness: "[[trevor herbert]]"
 	- they agreed to live with it, on loom street
 	- no sound from sylvia, they just understood the details (hypnosis)
 	- brother died there
-	- the house has a stale coppery smell, old blood smell
-	- 
+	- the house 
+		- has a stale coppery smell, old blood smell
+		- he and brother went to different rooms
+		- food he was given was rotten
+		- windows were barred
+		- front door is sturdy looking and locked
+	- they both wanted to get out
+	- heard a sound, so he crawled under and brother pretended to sleep
 
 - according to trevor's observations on vampires
 		- more like an animal than a man
