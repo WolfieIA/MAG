@@ -11,8 +11,12 @@
             "id": "fa202d6c77ec57ff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cases/MAG011 - dreamer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -46,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "characters/gerard keay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77eba8698efd26d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cases/MAG011 - dreamer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cases/MAG011 - dreamer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cases/MAG011 - dreamer.md"
+              }
             }
           }
         ]
