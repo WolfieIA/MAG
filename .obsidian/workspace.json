@@ -11,8 +11,12 @@
             "id": "38d8400462caf900",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2b59b72a1904eee",
+  "active": "38d8400462caf900",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "characters/mary keay.md",
