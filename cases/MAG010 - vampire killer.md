@@ -2,10 +2,9 @@
 tags:
   - case
 date: 2010-07-10
-location: 
-witness:
+location:
+  - "[[manchester]]"
+witness: "[[trevor herbert]]"
 ---
-- witness - [[trevor herbert]]
-- location - [[manchester]]
 ## main points
 - 
