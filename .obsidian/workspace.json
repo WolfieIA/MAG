@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG012 - first aid.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f38eb6abf193acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "!directory/cases by date.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG012 - first aid.md",
+                "file": "!directory/cases by date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG012 - first aid.md",
+                "file": "!directory/cases by date.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG012 - first aid.md"
+                "file": "!directory/cases by date.md"
               }
             }
           }
@@ -164,9 +151,11 @@
   },
   "active": "f5c976be5f91f7d4",
   "lastOpenFiles": [
+    "cases/MAG008 - burned out.md",
+    "!directory/cases by date.md",
+    "cases/MAG012 - first aid.md",
     "conflict-files-obsidian-git.md",
     "characters/kayleigh grice.md",
-    "cases/MAG012 - first aid.md",
     "cases/MAG005 - thrown away.md",
     "characters/archivists/jonathan sims.md",
     "characters/archivists/elias bouchard.md",
@@ -184,12 +173,10 @@
     "artifacts/bag of dolls.md",
     "cases/MAG010 - vampire killer.md",
     "characters/gerard keay.md",
-    "!directory/cases by date.md",
     "cases/MAG003 - across the street.md",
     "organisations/breekon and hope.md",
     "cases/MAG011 - dreamer.md",
     "characters/sylvia mcdonald.md",
-    "locations/london.md",
     "characters/archivists",
     "templates",
     "characters/witness",
