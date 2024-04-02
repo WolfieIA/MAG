@@ -41,8 +41,18 @@ witness: "[[trevor herbert]]"
 	- caught fire quickly, and burned it
 	- grabbed the key from the bedroom, and ran
 
-- in 1968,
-	- 
+- in june 1968,
+	- went up to a man with a lady friend, and asked for money
+	- the man didnt open his mouth and then he realised
+	- stalked them, and saw that the man never replied with his mouth
+	- grabbed discarded wood and made it into a stake
+	- the vampire's name is [[robert arden]]
+	- robert moved smoothly behind the woman, and opened his mouth
+	- trevor threw a rock into the window and the woman screamed
+	- woman saw robert's mouth and got scared
+	- ***creature's real looks***
+		- flesh was cold and spongy
+	- teeth 
 
 - according to trevor's observations on vampires
 		- more like an animal than a man
