@@ -23,4 +23,4 @@ witness: "[[dominic swain]]"
 		- quote related to hallucinations described - lights, scent, clattering
 	- small animal bones fall out of book as it passes through the shadows
 - image of stark in night sky, branching pattern aka lichtenberg figure
-	- similar to scar on michafrom lightning from childhood incident
+	- similar to michael crew's scar from a lightning incident during childhood
