@@ -34,7 +34,16 @@ witness: "[[antonio blake]]"
 
 - same dream the following saturday, but with different people
 	- the old people were faded, and john was faded too
-	- 
+	- see the deaths via the vines
 
+- regular part of his sleeping for 8 years
+- he saw his father in his dream, walking down Oxford Street, with veins climbing up his leg and into his chest
+- his father died in 10 days, heart attack (new year's eve)
+- took a month and half for father's image to fade, but image appeared 10 days before his death
+
+- the dream on the last night
+	- dull orange glow seemed muffled
+	- something was wrong
+	- veins thickened, and seemed to cover almost the w
 ## quotes
 - 
