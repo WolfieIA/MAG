@@ -56,8 +56,14 @@ witness: "[[antonio blake]]"
 	- veins blocked every entrance entirely, but he moved through
 	- it led to a room, called archive
 	- shelves coated in sticky black tar, thickened, pulpy blood that pumped through each and every one of those veins
-	- he saw getrude getting wrapped around tightly, and saw the expression was more fearful than any he saw
-	- 
+	- he saw gertrude getting wrapped around tightly, and saw the expression was more fearful than any he saw
+
+- notes from archivist
+	- elias was vague to what happened to gertrude robinson
+	- "died in the line of duty"
+	- [[antonio blake]] is a fake name, like it's a joke.
+	- rosie might be recording some too
+	- not sure if gertrude got the chance of reading this statement
 
 ## quotes
 - 

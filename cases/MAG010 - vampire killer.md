@@ -64,5 +64,8 @@ witness: "[[trevor herbert]]"
 		- don't reproduce by feeding, not sure how
 
 - notes from archivist
-	- 
+	- trevor went to the break room to sleep, and didnt wake up from lung cancer
+	- news reports support the events
+	- small bag of shark teeth, but didnt match any currently known species
+
 ## quotes
