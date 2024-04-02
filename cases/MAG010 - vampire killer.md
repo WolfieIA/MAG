@@ -16,9 +16,11 @@ witness: "[[trevor herbert]]"
 		- older woman
 		- widow, assumption from black clothes
 		- strange manner (mark of the vampire)
-	- they agreed to live with it
-	- no sound from sylvia, they just understood the details
-	- something like hypnosis
+	- they agreed to live with it, on loom street
+	- no sound from sylvia, they just understood the details (hypnosis)
+	- brother died there
+	- the house has a stale coppery smell, old blood smell
+	- 
 
 - according to trevor's observations on vampires
 		- more like an animal than a man

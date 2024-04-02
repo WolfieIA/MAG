@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG004 - pageturner.md",
+                "file": "cases/MAG010 - vampire killer.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG004 - pageturner.md",
+                "file": "cases/MAG010 - vampire killer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG004 - pageturner.md",
+                "file": "cases/MAG010 - vampire killer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG004 - pageturner.md"
+                "file": "cases/MAG010 - vampire killer.md"
               }
             }
           }
@@ -181,11 +181,11 @@
   },
   "active": "16c56c923eba2514",
   "lastOpenFiles": [
+    "cases/MAG004 - pageturner.md",
     "cases/MAG010 - vampire killer.md",
     "characters/sylvia mcdonald.md",
     "characters/mary keay.md",
     "cases/MAG003 - across the street.md",
-    "cases/MAG004 - pageturner.md",
     "characters/witness/trevor herbert.md",
     "conflict-files-obsidian-git.md",
     "characters/jurgen leitner.md",
