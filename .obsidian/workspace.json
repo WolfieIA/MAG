@@ -37,18 +37,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "27140a2e23a7cc27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "stacked": true
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/witness/trevor herbert.md",
+                "file": "cases/MAG010 - vampire killer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/witness/trevor herbert.md",
+                "file": "cases/MAG010 - vampire killer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/witness/trevor herbert.md"
+                "file": "cases/MAG010 - vampire killer.md"
               }
             }
           }
@@ -179,17 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a904bde0bdd2b5a1",
+  "active": "16c56c923eba2514",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "characters/witness/trevor herbert.md",
+    "cases/MAG010 - vampire killer.md",
+    "cases/MAG004 - pageturner.md",
+    "conflict-files-obsidian-git.md",
     "characters/mary keay.md",
     "characters/jurgen leitner.md",
     "characters/archivists/gertrude robinson.md",
     "characters/archivists/jonathan sims.md",
     "characters/archivists/elias bouchard.md",
     "characters/archivists",
-    "cases/MAG010 - vampire killer.md",
     "!directory/witness list.md",
     "characters/witness/joshua gillespie.md",
     "characters/witness/dominic swain.md",
@@ -200,7 +189,6 @@
     "cases/MAG008 - burned out.md",
     "cases/MAG009 - a father's love.md",
     "cases/MAG007 - the piper.md",
-    "cases/MAG004 - pageturner.md",
     "characters/witness/nathan watts.md",
     "!directory/cases by date.md",
     "cases/MAG002 - do not open.md",
