@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG010 - vampire killer.md",
+                "file": "cases/MAG012 - first aid.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13cbda3466a61bc8",
+            "id": "ed95a56f9bca70ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/witness/antonio blake.md",
+                "file": "cases/MAG010 - vampire killer.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG010 - vampire killer.md",
+                "file": "cases/MAG012 - first aid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG010 - vampire killer.md",
+                "file": "cases/MAG012 - first aid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG010 - vampire killer.md"
+                "file": "cases/MAG012 - first aid.md"
               }
             }
           }
@@ -162,10 +162,12 @@
   },
   "active": "16c56c923eba2514",
   "lastOpenFiles": [
-    "cases/MAG011 - dreamer.md",
     "cases/MAG010 - vampire killer.md",
-    "characters/archivists/gertrude robinson.md",
+    "!directory/cases by date.md",
+    "cases/MAG012 - first aid.md",
     "characters/witness/antonio blake.md",
+    "cases/MAG011 - dreamer.md",
+    "characters/archivists/gertrude robinson.md",
     "characters/john uzel.md",
     "cases/MAG003 - across the street.md",
     "characters/witness/amy patel.md",
@@ -186,8 +188,6 @@
     "!directory/witness list.md",
     "characters/witness/joshua gillespie.md",
     "characters/witness/dominic swain.md",
-    "characters/witness/timothy hodge.md",
-    "locations/manchester.md",
-    "cases/MAG006 - squirm.md"
+    "characters/witness/timothy hodge.md"
   ]
 }
