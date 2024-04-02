@@ -13,13 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG005 - thrown away.md",
+                "file": "cases/MAG010 - vampire killer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
+      },
+      {
+        "id": "c2e1409a7b6466ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a904bde0bdd2b5a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/witness/trevor herbert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG005 - thrown away.md",
+                "file": "characters/witness/trevor herbert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG005 - thrown away.md",
+                "file": "characters/witness/trevor herbert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG005 - thrown away.md"
+                "file": "characters/witness/trevor herbert.md"
               }
             }
           }
@@ -147,19 +167,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16c56c923eba2514",
+  "active": "a904bde0bdd2b5a1",
   "lastOpenFiles": [
+    "cases/MAG010 - vampire killer.md",
+    "!directory/witness list.md",
+    "characters/witness/trevor herbert.md",
+    "characters/witness/joshua gillespie.md",
+    "characters/witness/dominic swain.md",
+    "characters/witness/timothy hodge.md",
+    "locations/manchester.md",
+    "cases/MAG006 - squirm.md",
+    "cases/MAG005 - thrown away.md",
     "cases/MAG008 - burned out.md",
     "cases/MAG009 - a father's love.md",
-    "cases/MAG005 - thrown away.md",
     "cases/MAG007 - the piper.md",
-    "cases/MAG006 - squirm.md",
-    "cases/MAG010 - vampire killer.md",
     "cases/MAG004 - pageturner.md",
-    "characters/witness/dominic swain.md",
     "characters/witness/nathan watts.md",
     "!directory/cases by date.md",
-    "!directory/witness list.md",
     "cases/MAG002 - do not open.md",
     "cases/MAG001 - anglerfish.md",
     "cases/MAG003 - across the street.md",
