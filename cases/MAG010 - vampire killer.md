@@ -41,8 +41,28 @@ witness: "[[trevor herbert]]"
 	- caught fire quickly, and burned it
 	- grabbed the key from the bedroom, and ran
 
+- in june 1968,
+	- went up to a man with a lady friend, and asked for money
+	- the man didnt open his mouth and then he realised
+	- stalked them, and saw that the man never replied with his mouth
+	- grabbed discarded wood and made it into a stake
+	- the vampire's name is [[robert arden]]
+	- robert moved smoothly behind the woman, and opened his mouth
+	- trevor threw a rock into the window and the woman screamed
+	- woman saw robert's mouth and got scared
+	- ***creature's real looks***
+		- flesh was cold and spongy
+	- teeth bit into trevor's neck, and robert leeched his tongue onto the neck
+	- due to trevor taking heroin (the blood is tainted), robert removed his tongue from a choking fit
+	- woman stabs robert with kitchen knife, and trevor takes stake and stabs robert
+	- woman ran, and trevor set him on fire
+
 - according to trevor's observations on vampires
 		- more like an animal than a man
 		- they do not speak, having no need for air and no room for a windpipe.
 		- can go out in sunlight, they just avoid direct sunlight
 		- don't reproduce by feeding, not sure how
+
+- notes from archivist
+	- 
+## quotes

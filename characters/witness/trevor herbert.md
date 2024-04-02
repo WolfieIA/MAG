@@ -15,3 +15,4 @@ tags:
 - 4 months, and then the father died by drinking
 - 13 at that point, his brother, called [[nigel herbert]], was 15
 - they decided to run away
+- he takes heroin on and off

@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "7a743f9941e035da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4ea94b516e91e260",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!directory/cases by date.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!directory/cases by date.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!directory/cases by date.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -185,14 +197,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c3ef05555057c99",
+  "active": "7a743f9941e035da",
   "lastOpenFiles": [
+    "!directory/cases by date.md",
     "conflict-files-obsidian-git.md",
+    "locations/london.md",
+    "characters/witness/antonio blake.md",
+    "characters/john uzel.md",
+    "cases/MAG011 - dreamer.md",
     "cases/MAG003 - across the street.md",
     "cases/MAG004 - pageturner.md",
     "cases/MAG002 - do not open.md",
     "cases/MAG001 - anglerfish.md",
-    "!directory/cases by date.md",
     "cases/MAG005 - thrown away.md",
     "cases/MAG010 - vampire killer.md",
     "characters/sylvia mcdonald.md",
@@ -210,10 +226,6 @@
     "artifacts/the table.md",
     "artifacts/do not open coffin.md",
     "characters/archivists/gertrude robinson.md",
-    "characters/jurgen leitner.md",
-    "cases/MAG006 - squirm.md",
-    "characters/witness/kieran woodward.md",
-    "locations/old fishmarket close, edinburgh.md",
     "templates",
     "characters/witness",
     "!directory",
