@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ed95a56f9bca70ee",
+            "id": "a6bb0d9ef331f6f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG010 - vampire killer.md",
+                "file": "characters/witness/lesere saraki.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,9 +162,11 @@
   },
   "active": "16c56c923eba2514",
   "lastOpenFiles": [
+    "characters/witness/lesere saraki.md",
+    "cases/MAG012 - first aid.md",
+    "locations/st thomas hospital, waterloo, london.md",
     "cases/MAG010 - vampire killer.md",
     "!directory/cases by date.md",
-    "cases/MAG012 - first aid.md",
     "characters/witness/antonio blake.md",
     "cases/MAG011 - dreamer.md",
     "characters/archivists/gertrude robinson.md",
@@ -186,8 +188,6 @@
     "characters/archivists/elias bouchard.md",
     "characters/archivists",
     "!directory/witness list.md",
-    "characters/witness/joshua gillespie.md",
-    "characters/witness/dominic swain.md",
-    "characters/witness/timothy hodge.md"
+    "characters/witness/joshua gillespie.md"
   ]
 }
