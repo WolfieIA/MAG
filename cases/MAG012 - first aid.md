@@ -7,7 +7,7 @@ location:
 witness: "[[lesere saraki]]"
 ---
 ## main points
-- during 23rd december, 2 days before christmas
+- during 23rd december 2011, 2 days before christmas
 - not as bad of a night
 - half-past one, they get a radio saying they have a pair of severe burn victims brought in
 - when she arrived, she say a doctor assessing his burns, [[kayleigh grice]]
@@ -54,7 +54,16 @@ witness: "[[lesere saraki]]"
 	- none came in
 - he went to grab a sterile scalpel from the supply cupboard
 - "Yes. For you, better beholding than the lightless flame." -gerard keay
-- 
+- he took the scalpel, muttered some words, and put it in his throat
+- smell of rotten meat and sizzling sound
+- flesh blackened and cracked, bandages curled, and body cremated itself to ash
+- gerard keay was treated for a further four days, before being discharged into care of his mother.
+	- his mother is... dead?
+	- someone else came to pick him up?
+- she gets the feeling that she's being watched when she's alone.
+
+- notes from archivist
+	- 
 
 ## quotes
 - 
