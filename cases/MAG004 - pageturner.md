@@ -20,4 +20,7 @@ witness: "[[dominic swain]]"
 	- study with desk containing papers, fishing wire and safety razor
 	- painting of an eye with *“Grant us the sight that we may not know. Grant us the scent that we may not catch. Grant us the sound that we may not call."* written on the bottom
 		- crossed out in transcript
-		- quote related to hallucinations described - lights, scent 
+		- quote related to hallucinations described - lights, scent, clattering
+	- small animal bones fall out of book as it passes through the shadows
+- image of stark in night sky, branching pattern aka lichtenberg figure
+- met

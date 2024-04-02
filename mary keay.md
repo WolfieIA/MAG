@@ -4,4 +4,5 @@ status:
 ---
 - tattooed in script
 - old and thin
-- related to [
+- married to [[gerard keay]]
+- 
