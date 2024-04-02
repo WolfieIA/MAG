@@ -36,8 +36,10 @@ witness: "[[trevor herbert]]"
 		- long tubular tongue snaked out of throat and slurp the blood
 		- the belly grew
 	- creature killed the brother, and sucked the blood of the brother
-	- trevor grabs knife and stabs the belly
-	- creature was in pain
+	- trevor grabs knife and stabs the belly, creature was in pain when belly popped
+	- he grabbed the candle and press the dry part of the dress sylvia wore
+	- caught fire quickly, and burned it
+	- grabbed the key from the bedroom, and ran
 
 - according to trevor's observations on vampires
 		- more like an animal than a man
