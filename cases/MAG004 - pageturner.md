@@ -16,3 +16,5 @@ witness: "[[dominic swain]]"
 	- smell of ozone --> *similar to a xenon-mercury lamp  used to sterilise medical equipment with UV*
 - book auctioned online called - "key of solomon 1863 owned by [[macgregor mathers]] and [[jurgen leitner]]" --> won by [[gertrude robinson|grbookworm1818]]
 - went to [[pinhole books]], met [[mary keay]]
+	- study with desk containing papers, fishing wire and safety razor
+	- painting of an eye with *“Grant us the sight that we may not know. Grant us the scent that we may not catch. Grant us the sound that we may not call."* written on the bottom
