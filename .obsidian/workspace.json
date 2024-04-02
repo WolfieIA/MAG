@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG003 - across the street.md",
+                "file": "!directory/witness list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG003 - across the street.md",
+                "file": "!directory/witness list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG003 - across the street.md",
+                "file": "!directory/witness list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG003 - across the street.md"
+                "file": "!directory/witness list.md"
               }
             }
           }
@@ -151,18 +151,18 @@
   },
   "active": "6857d627533c3e84",
   "lastOpenFiles": [
+    "locations/amsterdam.md",
+    "organisations/breekon and hope.md",
+    "cases/MAG003 - across the street.md",
     "lancaster road, walthamstowe.md",
     "cases/MAG005 - thrown away.md",
     "cases/MAG002 - do not open.md",
-    "cases/MAG003 - across the street.md",
     "cases/MAG004 - pageturner.md",
     "!directory/cases by date.md",
     "characters/jonathan sims.md",
     "characters/gertrude robinson.md",
-    "amsterdam.md",
     "amsterdam]] , [[bournemouth.md",
     "locations/bournemouth.md",
-    "organisations/breekon and hope.md",
     "artifacts/do not open coffin.md",
     "cases/MAG001 - anglerfish.md",
     "characters/graham folger.md",
