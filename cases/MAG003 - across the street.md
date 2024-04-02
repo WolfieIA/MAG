@@ -5,6 +5,7 @@ tags:
   - missing
 date: 2007-07-01
 location:
+  - "[[clapham, london]]"
 ---
 - witness - [[amy patel]]
 - location - [[clapham, london]]

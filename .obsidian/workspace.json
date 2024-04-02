@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/clapham, london.md",
+                "file": "cases/MAG004 - pageturner.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dd32c8edf541c77d",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/clapham, london.md",
+                "file": "cases/MAG004 - pageturner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locations/clapham, london.md",
+                "file": "cases/MAG004 - pageturner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/clapham, london.md"
+                "file": "cases/MAG004 - pageturner.md"
               }
             }
           }
@@ -151,10 +152,15 @@
   },
   "active": "6857d627533c3e84",
   "lastOpenFiles": [
-    "cases/MAG003 - across the street.md",
+    "cases/MAG010 - vampire killer.md",
+    "cases/MAG001 - anglerfish.md",
     "cases/MAG002 - do not open.md",
-    "characters/gertrude robinson.md",
+    "cases/MAG003 - across the street.md",
     "cases/MAG004 - pageturner.md",
+    "characters/witness/dominic swain.md",
+    "locations/nottinghill, london.md",
+    "locations/clapham, london.md",
+    "characters/gertrude robinson.md",
     "cases/MAG005 - thrown away.md",
     "!directory/witness list.md",
     "locations/amsterdam.md",
@@ -165,18 +171,13 @@
     "amsterdam]] , [[bournemouth.md",
     "locations/bournemouth.md",
     "artifacts/do not open coffin.md",
-    "cases/MAG001 - anglerfish.md",
     "characters/graham folger.md",
     "characters/elias bouchard.md",
     "characters/witness/amy patel.md",
     "cases/MAG008 - burned out.md",
     "cases/MAG009 - a father's love.md",
-    "cases/MAG010 - vampire killer.md",
     "characters/witness/kieran woodward.md",
     "characters/witness/nathan watts.md",
-    "characters/witness/joshua gillespie.md",
-    "characters/witness/timothy hodge.md",
-    "characters/witness/trevor herbert.md",
     "templates",
     "characters/witness",
     "!directory",
