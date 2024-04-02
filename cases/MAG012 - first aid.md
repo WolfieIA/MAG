@@ -18,6 +18,14 @@ witness: "[[lesere saraki]]"
 	- tall man, heavy-set
 	- no screams, no cries, no moaning in pain
 	- he was sleeping peacefully apparently
+	- hair none, might be burned off
+- second victim
+	- almost identical shape, except burns stopped at neck
+	- it was like he was wearing a choker
+	- smaller than the first man, and younger
+	- clean-shaven, long hair dyed completely black
+	- there were second-degree burns, but there were small eyes tattooed on every one of his joints and on his heart
+	- the tattoos were unblemished, and wasn't affected
 - 
 
 ## quotes
