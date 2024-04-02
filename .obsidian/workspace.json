@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG011 - dreamer.md",
+                "file": "!directory/cases by date.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "!directory/cases by date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "!directory/cases by date.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "!directory/cases by date.md"
               }
             }
           }
@@ -209,8 +208,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a14f5d02d812980e",
+  "active": "fa202d6c77ec57ff",
   "lastOpenFiles": [
+    "cases/MAG004 - pageturner.md",
+    "cases/MAG005 - thrown away.md",
+    "organisations/pinhole books.md",
+    "organisations/breekon and hope.md",
+    "organisations/magnus institute.md",
+    "characters/archivists/rosie.md",
     "cases/MAG011 - dreamer.md",
     "conflict-files-obsidian-git.md",
     "cases/MAG012 - first aid.md",
@@ -223,21 +228,15 @@
     "characters/witness/antonio blake.md",
     "characters/john uzel.md",
     "cases/MAG003 - across the street.md",
-    "cases/MAG004 - pageturner.md",
     "cases/MAG002 - do not open.md",
     "cases/MAG001 - anglerfish.md",
-    "cases/MAG005 - thrown away.md",
     "cases/MAG010 - vampire killer.md",
-    "organisations/magnus institute.md",
     "artifacts/bag of dolls.md",
-    "pinhole books.md",
     "characters/archivists/elias bouchard.md",
     "!directory/witness list.md",
     "locations/manchester.md",
     "characters/archivists",
     "characters/witness/nathan watts.md",
-    "artifacts/ex altiora book.md",
-    "artifacts/the table.md",
     "templates",
     "characters/witness",
     "!directory",
