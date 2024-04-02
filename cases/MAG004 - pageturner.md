@@ -14,4 +14,5 @@ witness: "[[dominic swain]]"
 - at the show:
 	- stage lights malfunction 
 	- smell of ozone --> *similar to a xenon-mercury lamp  used to sterilise medical equipment with UV*
+- book auctioned online called - "key of solomon 1863 owned by [[macgregor mathers]] and [[jurgen leitner]]" --> won by [[gertrude robinson|grbookworm1818]]
 - went to [[pinhole books]], met [[mary keay]]
