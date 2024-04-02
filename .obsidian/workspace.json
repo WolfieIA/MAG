@@ -1,55 +1,52 @@
 {
   "main": {
-    "id": "748906575c504295",
+    "id": "8fe7342d21ab6cc9",
     "type": "split",
     "children": [
       {
-        "id": "02855c4ff0d4c033",
+        "id": "661db2fb2b37e175",
         "type": "tabs",
         "children": [
           {
-            "id": "f5c976be5f91f7d4",
+            "id": "16c56c923eba2514",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "cases/MAG012 - first aid.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "9f38eb6abf193acc",
+            "id": "a6bb0d9ef331f6f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "characters/witness/lesere saraki.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f1220172807aae1c",
+    "id": "43c29d335572803e",
     "type": "split",
     "children": [
       {
-        "id": "4f0e9abae2e8bcf9",
+        "id": "c278644d1649ecb3",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b59b72a1904eee",
+            "id": "85e446efc107114d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +56,7 @@
             }
           },
           {
-            "id": "6d85b0a328aaaae0",
+            "id": "459eb06a88376cbf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +71,7 @@
             }
           },
           {
-            "id": "942f8e3a78557df1",
+            "id": "e8b33988c5f0fbf0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "dd32c8edf541c77d",
+    "id": "c34fd9500fd80654",
     "type": "split",
     "children": [
       {
-        "id": "2c6b26dcfef409ab",
+        "id": "b9202caf26470d80",
         "type": "tabs",
         "children": [
           {
-            "id": "619a6387bb7121e0",
+            "id": "4145851c5a4c1714",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "cases/MAG012 - first aid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,19 +110,19 @@
             }
           },
           {
-            "id": "4bbf368c113611ca",
+            "id": "a899334c17102260",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "cases/MAG012 - first aid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f8bb5e5b605e0d4e",
+            "id": "fa651282d605b802",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,12 +133,12 @@
             }
           },
           {
-            "id": "c337b6ec36c9d808",
+            "id": "e1f2fbc255d1846e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "cases/MAG012 - first aid.md"
               }
             }
           }
@@ -154,54 +151,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9f38eb6abf193acc",
+  "active": "16c56c923eba2514",
   "lastOpenFiles": [
-    "characters/kayleigh grice.md",
-    "cases/MAG012 - first aid.md",
-    "conflict-files-obsidian-git.md",
-    "cases/MAG005 - thrown away.md",
-    "characters/archivists/jonathan sims.md",
-    "characters/archivists/elias bouchard.md",
-    "characters/archivists/elias.md",
-    "characters/archivists/rosie.md",
-    "locations/st thomas hospital, waterloo, london.md",
-    "characters/witness/lesere saraki.md",
-    "characters/graham folger.md",
-    "organisations/magnus institute.md",
-    "characters/archivists/martin.md",
-    "characters/archivists/tim.md",
-    "characters/mary keay.md",
-    "cases/MAG004 - pageturner.md",
     "organisations/pinhole books.md",
-    "artifacts/bag of dolls.md",
-    "cases/MAG010 - vampire killer.md",
+    "locations/morden.md",
+    "conflict-files-obsidian-git.md",
     "characters/gerard keay.md",
+    "characters/archivists/tim.md",
+    "characters/archivists/rosie.md",
+    "characters/archivists/martin.md",
+    "characters/archivists/elias.md",
+    "artifacts/bag of dolls.md",
+    "characters/witness/lesere saraki.md",
+    "cases/MAG012 - first aid.md",
+    "characters/kayleigh grice.md",
+    "locations/st thomas hospital, waterloo, london.md",
+    "cases/MAG010 - vampire killer.md",
     "!directory/cases by date.md",
-    "cases/MAG003 - across the street.md",
-    "organisations/breekon and hope.md",
+    "characters/witness/antonio blake.md",
     "cases/MAG011 - dreamer.md",
-    "characters/sylvia mcdonald.md",
+    "characters/archivists/gertrude robinson.md",
+    "characters/john uzel.md",
+    "cases/MAG003 - across the street.md",
+    "characters/witness/amy patel.md",
     "locations/london.md",
-    "characters/archivists",
-    "templates",
-    "characters/witness",
-    "!directory",
-    "artifacts",
-    "locations/Untitled",
-    "organisations",
-    "cases",
-    "locations",
-    "characters",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "characters/witness/trevor herbert.md",
+    "cases/MAG004 - pageturner.md",
+    "cases/MAG007 - the piper.md",
+    "cases/MAG008 - burned out.md",
+    "characters/archivists"
   ]
 }

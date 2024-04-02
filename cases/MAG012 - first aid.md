@@ -26,7 +26,8 @@ witness: "[[lesere saraki]]"
 	- clean-shaven, long hair dyed completely black
 	- there were second-degree burns, but there were small eyes tattooed on every one of his joints and on his heart
 	- the tattoos were unblemished, and wasn't affected
-- 
+- there was a blaze in a building site near st mary's churchyar
+- no fire there, but there were burn marks and metal bar
 
 ## quotes
 - 
