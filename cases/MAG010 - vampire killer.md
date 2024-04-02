@@ -52,7 +52,10 @@ witness: "[[trevor herbert]]"
 	- woman saw robert's mouth and got scared
 	- ***creature's real looks***
 		- flesh was cold and spongy
-	- teeth 
+	- teeth bit into trevor's neck, and robert leeched his tongue onto the neck
+	- due to trevor taking heroin (the blood is tainted), robert removed his tongue from a choking fit
+	- woman stabs robert with kitchen knife, and trevor takes stake and stabs robert
+	- woman ran, and trevor set him on fire
 
 - according to trevor's observations on vampires
 		- more like an animal than a man

@@ -20,37 +20,19 @@
             }
           },
           {
-            "id": "89c1200e651d818c",
+            "id": "13cbda3466a61bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/sylvia mcdonald.md",
+                "file": "cases/MAG011 - dreamer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
-      },
-      {
-        "id": "c2e1409a7b6466ac",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a904bde0bdd2b5a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/witness/trevor herbert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -117,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG010 - vampire killer.md",
+                "file": "cases/MAG011 - dreamer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG010 - vampire killer.md",
+                "file": "cases/MAG011 - dreamer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG010 - vampire killer.md"
+                "file": "cases/MAG011 - dreamer.md"
               }
             }
           }
@@ -179,16 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16c56c923eba2514",
+  "active": "13cbda3466a61bc8",
   "lastOpenFiles": [
+    "cases/MAG010 - vampire killer.md",
+    "cases/MAG011 - dreamer.md",
+    "characters/witness/trevor herbert.md",
     "cases/MAG004 - pageturner.md",
     "cases/MAG003 - across the street.md",
-    "cases/MAG010 - vampire killer.md",
     "cases/MAG007 - the piper.md",
     "cases/MAG008 - burned out.md",
     "cases/MAG009 - a father's love.md",
     "cases/MAG002 - do not open.md",
-    "characters/witness/trevor herbert.md",
     "characters/sylvia mcdonald.md",
     "characters/mary keay.md",
     "conflict-files-obsidian-git.md",
@@ -206,7 +189,6 @@
     "cases/MAG005 - thrown away.md",
     "characters/witness/nathan watts.md",
     "!directory/cases by date.md",
-    "cases/MAG001 - anglerfish.md",
-    "characters/gertrude robinson.md"
+    "cases/MAG001 - anglerfish.md"
   ]
 }
