@@ -14,7 +14,7 @@ witness: "[[dominic swain]]"
 - found the [[ex altiora book]] 
 - at the show:
 	- stage lights malfunction 
-	- smell of ozone --> *similar to a xenon-mercury lamp used to sterilise medical equipment with UV*
+	- smell of ozone --> *related to childhood incident*
 - book auctioned online called - "key of solomon 1863 owned by [[macgregor mathers]] and [[jurgen leitner]]" --> won by [[gertrude robinson|grbookworm1818]]
 - went to [[pinhole books]], met [[mary keay]]
 	- study with desk containing papers, fishing wire and safety razor
@@ -23,4 +23,4 @@ witness: "[[dominic swain]]"
 		- quote related to hallucinations described - lights, scent, clattering
 	- small animal bones fall out of book as it passes through the shadows
 - image of stark in night sky, branching pattern aka lichtenberg figure
-	- 
+	- similar to scar on michafrom lightning from childhood incident
