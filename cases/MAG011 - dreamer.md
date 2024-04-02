@@ -44,6 +44,20 @@ witness: "[[antonio blake]]"
 - the dream on the last night
 	- dull orange glow seemed muffled
 	- something was wrong
-	- veins thickened, and seemed to cover almost the w
+	- veins thickened, and seemed to cover almost the whole space of every street
+	- there would be dark red light travelling inside of them
+		- illuminate faces and shadows within tendrils
+	- decided to follow the red light
+	- went towards vauxhall and the thames
+	- bridge was knotted high with flashing vines
+	- destination was a small building, standing alone the other side of the bridge near the enbankment
+	- read: the magnus institute, founded 1818
+	- entered, not sure how
+	- veins blocked every entrance entirely, but he moved through
+	- it led to a room, called archive
+	- shelves coated in sticky black tar, thickened, pulpy blood that pumped through each and every one of those veins
+	- he saw getrude getting wrapped around tightly, and saw the expression was more fearful than any he saw
+	- 
+
 ## quotes
 - 
