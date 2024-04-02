@@ -1,6 +1,7 @@
 ---
 tags: 
 status:
+  - dead
 ---
 - tattooed in script
 - old and thin

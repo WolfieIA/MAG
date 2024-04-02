@@ -37,6 +37,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27140a2e23a7cc27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -169,9 +181,16 @@
   },
   "active": "a904bde0bdd2b5a1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "characters/witness/trevor herbert.md",
+    "characters/mary keay.md",
+    "characters/jurgen leitner.md",
+    "characters/archivists/gertrude robinson.md",
+    "characters/archivists/jonathan sims.md",
+    "characters/archivists/elias bouchard.md",
+    "characters/archivists",
     "cases/MAG010 - vampire killer.md",
     "!directory/witness list.md",
-    "characters/witness/trevor herbert.md",
     "characters/witness/joshua gillespie.md",
     "characters/witness/dominic swain.md",
     "characters/witness/timothy hodge.md",
@@ -187,10 +206,7 @@
     "cases/MAG002 - do not open.md",
     "cases/MAG001 - anglerfish.md",
     "cases/MAG003 - across the street.md",
-    "conflict-files-obsidian-git.md",
     "characters/gertrude robinson.md",
-    "characters/jonathan sims.md",
-    "characters/graham folger.md",
-    "jurgen leitner.md"
+    "characters/jonathan sims.md"
   ]
 }
