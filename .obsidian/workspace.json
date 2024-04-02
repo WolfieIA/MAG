@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jurgen leitner.md",
+                "file": "mary keay.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jurgen leitner.md",
+                "file": "mary keay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jurgen leitner.md",
+                "file": "mary keay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jurgen leitner.md"
+                "file": "mary keay.md"
               }
             }
           }
@@ -152,9 +152,11 @@
   },
   "active": "6857d627533c3e84",
   "lastOpenFiles": [
+    "cases/MAG004 - pageturner.md",
+    "mary keay.md",
+    "morden.md",
     "artifacts/ex altiora book.md",
     "jurgen leitner.md",
-    "cases/MAG004 - pageturner.md",
     "cases/MAG010 - vampire killer.md",
     "cases/MAG001 - anglerfish.md",
     "cases/MAG002 - do not open.md",
@@ -176,8 +178,6 @@
     "characters/graham folger.md",
     "characters/elias bouchard.md",
     "characters/witness/amy patel.md",
-    "cases/MAG008 - burned out.md",
-    "cases/MAG009 - a father's love.md",
     "templates",
     "characters/witness",
     "!directory",
