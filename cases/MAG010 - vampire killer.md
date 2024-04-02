@@ -12,7 +12,7 @@ witness: "[[trevor herbert]]"
 	- taken in by [[sylvia mcdonald]]
 	- end of october, shivering at the side of the street next to Kings Arms Hotel
 	- suspects that the vampire visited the pub for locating victims
-	- vampire looks
+	- ***vampire original looks***
 		- older woman
 		- widow, assumption from black clothes
 		- strange manner (mark of the vampire)
@@ -27,6 +27,17 @@ witness: "[[trevor herbert]]"
 		- front door is sturdy looking and locked
 	- they both wanted to get out
 	- heard a sound, so he crawled under and brother pretended to sleep
+	- sylvia entered and moved towards the bed
+	- struggle sounds and brother was struggling and cried
+	- something fell while the creature was grabbing the brother, turned out to be a pocket knife
+	- ***creature's real looks***
+		- dozen long, thick, pointed teeth like a shark
+		- jaw can detached
+		- long tubular tongue snaked out of throat and slurp the blood
+		- the belly grew
+	- creature killed the brother, and sucked the blood of the brother
+	- trevor grabs knife and stabs the belly
+	- creature was in pain
 
 - according to trevor's observations on vampires
 		- more like an animal than a man
