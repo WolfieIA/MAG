@@ -1,6 +1,8 @@
 ---
 tags:
   - case
+  - smoke
+  - missing
 date: 2012-04-22
 location: "[[old fishmarket close, edinburgh]]"
 witness: "[[nathan watts]]"
@@ -10,6 +12,4 @@ witness: "[[nathan watts]]"
 - missing person case after
 - related to marlboro red cigarettes?
 
-## themes
-[[smoke]] | [[missing]]
 

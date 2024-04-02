@@ -2,7 +2,7 @@
 tags:
   - case
 date: 1998-02-21
-location: "[[amsterdam, bournemouth]]"
+location: "[[bournemouth]]"
 witness: "[[joshua gillespie]]"
 ---
 ## main points

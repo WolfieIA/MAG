@@ -4,5 +4,4 @@ tags:
 ---
 ## key features
 - "DO NOT OPEN" carved on it
-## related cases
-- 
+- 2ft x 1ft x 1ft => perfect fit for a dwarf (john)

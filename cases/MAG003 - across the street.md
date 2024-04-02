@@ -1,6 +1,8 @@
 ---
 tags:
   - case
+  - smoke
+  - missing
 date: 2007-07-01
 ---
 - witness - [[amy patel]]
@@ -27,5 +29,3 @@ date: 2007-07-01
 > _"... he was standing at Graham’s window, looking back at me. I stood there frozen as his wide, staring eyes met mine and a cold, toothy smile spread across his face."_
 
 >  _"Isn’t it funny, Amy, how you can live so near and never notice. I’ll need to return the visit someday."_
-## themes
-[[smoke]] | [[missing]] 
