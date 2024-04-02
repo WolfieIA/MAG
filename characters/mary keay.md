@@ -3,7 +3,9 @@ tags:
 status:
   - dead
 ---
-- tattooed in script
+- tattooed in sanskrit
+	- sacred language of hinduism
 - old and thin
-- married to [[gerard keay]]
-- 
+- mother of [[gerard keay]]
+- murdered
+- drying sheets of skin had been written over in permanent marker

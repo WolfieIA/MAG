@@ -7,8 +7,7 @@ tags:
 - founded in 1818
 - this place is old as shit
 ## people under the organisation
-- [[jonathan sims]]
-- ~~[[elias bouchard]]~~
-- [[gertrude robinson]]
-- [[martin]]
-- [[tim]] 
+```dataview
+list
+from #archivists 
+```
