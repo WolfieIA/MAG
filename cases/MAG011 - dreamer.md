@@ -25,7 +25,16 @@ witness: "[[antonio blake]]"
 	- wandered to barclays building
 		- lights were on, orange lights
 		- no people
-		- something in the small office next
+		- something in the small office next to her old desk
+		- [[john uzel]], her old manager was suspended two feet from the floor
+	- awoke, end of dream.
+
+- was offered to return to Barclays, but declined the offer
+- found out what happened to [[john uzel]], he hung himself (dream mirrored it)
+
+- same dream the following saturday, but with different people
+	- the old people were faded, and john was faded too
+	- 
 
 ## quotes
 - 
