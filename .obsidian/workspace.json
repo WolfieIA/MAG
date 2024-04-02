@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG013 - alone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6bb0d9ef331f6f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cases/MAG012 - first aid.md",
+                "file": "cases/MAG007 - the piper.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG013 - alone.md",
+                "file": "cases/MAG007 - the piper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG013 - alone.md",
+                "file": "cases/MAG007 - the piper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG013 - alone.md"
+                "file": "cases/MAG007 - the piper.md"
               }
             }
           }
@@ -162,15 +150,20 @@
   },
   "active": "16c56c923eba2514",
   "lastOpenFiles": [
-    "cases/MAG012 - first aid.md",
-    "characters/witness/lesere saraki.md",
     "cases/MAG013 - alone.md",
+    "cases/MAG012 - first aid.md",
+    "cases/MAG010 - vampire killer.md",
+    "cases/MAG009 - a father's love.md",
+    "characters/others/graham folger.md",
+    "characters/others/gerard keay.md",
+    "cases/MAG014 - piecemeal.md",
+    "characters/others",
+    "cases/MAG015  - lost john's cave.md",
+    "characters/witness/lesere saraki.md",
     "!directory/cases by date.md",
     "!directory/witness list.md",
     "cases/MAG011 - dreamer.md",
-    "characters/graham folger.md",
-    "characters/mary keay.md",
-    "characters/gerard keay.md",
+    "characters/others/mary keay.md",
     "organisations/pinhole books.md",
     "locations/morden.md",
     "conflict-files-obsidian-git.md",
@@ -179,15 +172,11 @@
     "characters/archivists/martin.md",
     "characters/archivists/elias.md",
     "artifacts/bag of dolls.md",
-    "characters/kayleigh grice.md",
+    "characters/others/kayleigh grice.md",
     "locations/st thomas hospital, waterloo, london.md",
-    "cases/MAG010 - vampire killer.md",
     "characters/witness/antonio blake.md",
     "characters/archivists/gertrude robinson.md",
-    "characters/john uzel.md",
-    "cases/MAG003 - across the street.md",
-    "characters/witness/amy patel.md",
-    "locations/london.md",
+    "characters/others/john uzel.md",
     "characters/archivists"
   ]
 }
