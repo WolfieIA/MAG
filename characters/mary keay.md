@@ -8,3 +8,4 @@ status:
 - old and thin
 - mother of [[gerard keay]]
 - murdered
+- drying sheets of skin had been written over in permanent marker

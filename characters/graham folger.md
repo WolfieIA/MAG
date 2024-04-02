@@ -1,6 +1,5 @@
 ---
-tags:
-  - archivists
+tags: []
 status:
   - missing
 ---

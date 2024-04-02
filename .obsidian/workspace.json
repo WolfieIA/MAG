@@ -4,77 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "79027b9226f81b0c",
+        "id": "02855c4ff0d4c033",
         "type": "tabs",
         "children": [
           {
-            "id": "fa202d6c77ec57ff",
+            "id": "f5c976be5f91f7d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!directory/cases by date.md",
+                "file": "characters/archivists/rosie.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a14f5d02d812980e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0414220ad547cf48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cases/MAG003 - across the street.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c3ef05555057c99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!directory/cases by date.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a743f9941e035da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/gerard keay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ea94b516e91e260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cases/MAG010 - vampire killer.md",
-                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -146,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!directory/cases by date.md",
+                "file": "characters/archivists/rosie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!directory/cases by date.md",
+                "file": "characters/archivists/rosie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!directory/cases by date.md"
+                "file": "characters/archivists/rosie.md"
               }
             }
           }
@@ -208,35 +149,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa202d6c77ec57ff",
+  "active": "f5c976be5f91f7d4",
   "lastOpenFiles": [
-    "cases/MAG004 - pageturner.md",
-    "cases/MAG005 - thrown away.md",
-    "organisations/pinhole books.md",
-    "organisations/breekon and hope.md",
+    "characters/graham folger.md",
     "organisations/magnus institute.md",
+    "characters/archivists/elias.md",
+    "characters/archivists/martin.md",
+    "characters/archivists/tim.md",
+    "characters/mary keay.md",
+    "cases/MAG004 - pageturner.md",
+    "organisations/pinhole books.md",
+    "cases/MAG005 - thrown away.md",
+    "artifacts/bag of dolls.md",
+    "cases/MAG010 - vampire killer.md",
+    "characters/gerard keay.md",
+    "!directory/cases by date.md",
+    "cases/MAG003 - across the street.md",
+    "organisations/breekon and hope.md",
     "characters/archivists/rosie.md",
     "cases/MAG011 - dreamer.md",
     "conflict-files-obsidian-git.md",
     "cases/MAG012 - first aid.md",
-    "characters/mary keay.md",
-    "characters/gerard keay.md",
-    "!directory/cases by date.md",
-    "characters/graham folger.md",
     "characters/sylvia mcdonald.md",
     "locations/london.md",
     "characters/witness/antonio blake.md",
     "characters/john uzel.md",
-    "cases/MAG003 - across the street.md",
     "cases/MAG002 - do not open.md",
     "cases/MAG001 - anglerfish.md",
-    "cases/MAG010 - vampire killer.md",
-    "artifacts/bag of dolls.md",
     "characters/archivists/elias bouchard.md",
-    "!directory/witness list.md",
-    "locations/manchester.md",
     "characters/archivists",
-    "characters/witness/nathan watts.md",
     "templates",
     "characters/witness",
     "!directory",
