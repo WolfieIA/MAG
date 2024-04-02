@@ -11,4 +11,6 @@ witness: "[[dominic swain]]"
 		=> gertrude??
 - found the [[ex altiora book]] 
 - at the show:
-	- stage lights mal
+	- stage lights malfunction 
+	- smell of ozone --> *similar to a xenon-mercury lamp  used to sterilise medical equipment with UV*
+	- 
