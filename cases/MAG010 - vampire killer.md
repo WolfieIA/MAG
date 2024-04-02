@@ -17,8 +17,11 @@ witness: "[[trevor herbert]]"
 		- widow, assumption from black clothes
 		- strange manner (mark of the vampire)
 	- they agreed to live with it
-	- according to trevor's observations on vampires
-		- more like an animal than a man
-		- they do not speak, having no need for air and no room for a windpipe.
 	- no sound from sylvia, they just understood the details
 	- something like hypnosis
+
+- according to trevor's observations on vampires
+		- more like an animal than a man
+		- they do not speak, having no need for air and no room for a windpipe.
+		- can go out in sunlight, they just avoid direct sunlight
+		- don't reproduce by feeding, not sure how
