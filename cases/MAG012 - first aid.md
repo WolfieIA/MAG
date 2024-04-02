@@ -59,11 +59,18 @@ witness: "[[lesere saraki]]"
 - flesh blackened and cracked, bandages curled, and body cremated itself to ash
 - gerard keay was treated for a further four days, before being discharged into care of his mother.
 	- his mother is... dead?
-	- someone else came to pick him up?
+	- someone else came to pick him up? maybe gertrude? they both seem interested in the [[jurgen leitner]] books?
 - she gets the feeling that she's being watched when she's alone.
 
 - notes from archivist
-	- 
+	- asag is the name of a demon, sumerian mythology, related to disease and corruption
+	- asag was able to boil fish alive in their rivers
+	- veepalach could be wypalac, meaning cauterize or brand
+	- gerard keay's second time, check [[MAG004 - pageturner]]
+	- hospital cctv footage had issues
+		- at 03:11:22, everyone in the room stood up and calmly exited the doors. 
+		- everyone only returns at 03:27:12, over 15 minutes later
+		- at 03:22:52, feed cuts out, and is replaced with a close-up of a human eye, staring back
 
 ## quotes
 - 
