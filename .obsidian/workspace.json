@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG007 - the piper.md",
+                "file": "!directory/cases by date.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG007 - the piper.md",
+                "file": "!directory/cases by date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG007 - the piper.md",
+                "file": "!directory/cases by date.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG007 - the piper.md"
+                "file": "!directory/cases by date.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "16c56c923eba2514",
   "lastOpenFiles": [
+    "characters/witness/timothy hodge.md",
+    "!directory/witness list.md",
     "cases/MAG013 - alone.md",
     "cases/MAG012 - first aid.md",
+    "cases/MAG007 - the piper.md",
     "cases/MAG010 - vampire killer.md",
     "cases/MAG009 - a father's love.md",
     "characters/others/graham folger.md",
@@ -161,7 +164,6 @@
     "cases/MAG015  - lost john's cave.md",
     "characters/witness/lesere saraki.md",
     "!directory/cases by date.md",
-    "!directory/witness list.md",
     "cases/MAG011 - dreamer.md",
     "characters/others/mary keay.md",
     "organisations/pinhole books.md",
@@ -175,8 +177,6 @@
     "characters/others/kayleigh grice.md",
     "locations/st thomas hospital, waterloo, london.md",
     "characters/witness/antonio blake.md",
-    "characters/archivists/gertrude robinson.md",
-    "characters/others/john uzel.md",
     "characters/archivists"
   ]
 }
