@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/mary keay.md",
+                "file": "cases/MAG005 - thrown away.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ea94b516e91e260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cases/MAG010 - vampire killer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdebbdfeefb35d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/mary keay.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/mary keay.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/mary keay.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,18 +173,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa202d6c77ec57ff",
+  "active": "cdebbdfeefb35d32",
   "lastOpenFiles": [
-    "cases/MAG004 - pageturner.md",
+    "cases/MAG010 - vampire killer.md",
+    "organisations/magnus institute.md",
+    "cases/MAG005 - thrown away.md",
+    "artifacts/bag of dolls.md",
     "conflict-files-obsidian-git.md",
-    "locations/manchester.md",
+    "cases/MAG004 - pageturner.md",
     "characters/mary keay.md",
+    "pinhole books.md",
+    "characters/archivists/elias bouchard.md",
+    "characters/gerard keay.md",
+    "!directory/witness list.md",
+    "locations/manchester.md",
     "characters/archivists",
     "characters/witness/nathan watts.md",
     "artifacts/ex altiora book.md",
     "artifacts/the table.md",
     "artifacts/do not open coffin.md",
-    "!directory/witness list.md",
     "characters/archivists/gertrude robinson.md",
     "cases/MAG003 - across the street.md",
     "cases/MAG002 - do not open.md",
@@ -169,14 +201,7 @@
     "characters/witness/kieran woodward.md",
     "locations/old fishmarket close, edinburgh.md",
     "locations/bournemouth.md",
-    "morden.md",
-    "cases/MAG010 - vampire killer.md",
-    "characters/witness/dominic swain.md",
-    "locations/nottinghill, london.md",
-    "locations/clapham, london.md",
-    "cases/MAG005 - thrown away.md",
-    "locations/amsterdam.md",
-    "organisations/breekon and hope.md",
+    "locations/morden.md",
     "templates",
     "characters/witness",
     "!directory",
