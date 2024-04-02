@@ -44,6 +44,16 @@ witness: "[[lesere saraki]]"
 	- she heard growling of an animal
 	- floor was shaking
 	- vending machines were shaking violently and drinks exploded
+	- the handle was very hot, cannot get out through door
+- she walk past the man, and hear the chanting get louder
+	- eyes were open, bloodshot
+- she was gonna close his mouth, and gerard grabs her by the wrist
+- his grip was very strong, and there was heat like his skin was still burning
+- he was trying to protect her, touching the man was a bad idea
+- gerard was looking for a small book bound in red leather, and a brass pendant that he was wearing
+	- none came in
+- he went to grab a sterile scalpel from the supply cupboard
+- "Yes. For you, better beholding than the lightless flame." -gerard keay
 - 
 
 ## quotes
