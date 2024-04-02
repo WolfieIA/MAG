@@ -3,7 +3,8 @@ tags:
 status:
   - dead
 ---
-- tattooed in script
+- tattooed in sanskrit
+	- sacred language of hinduism
 - old and thin
 - mother of [[gerard keay]]
 - murdered

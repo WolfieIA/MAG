@@ -24,3 +24,8 @@ witness: "[[dominic swain]]"
 	- small animal bones fall out of book as it passes through the shadows
 - image of stark in night sky, branching pattern aka lichtenberg figure
 	- similar to michael crew's scar from a lightning incident during childhood
+- met [[gerard keay]] after fleeing away from pinhole books
+	- gerard burns the book
+
+## quotes
+> *"My mother doesn’t always know what’s best for our family.”* - gerard keay

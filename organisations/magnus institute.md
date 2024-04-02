@@ -8,7 +8,8 @@ tags:
 - this place is old as shit
 ## people under the organisation
 - [[jonathan sims]]
-- ~~[[elias bouchard]]~~
+- [[elias bouchard]]
 - [[gertrude robinson]]
 - [[martin]]
 - [[tim]] 
+- [[sasha]]

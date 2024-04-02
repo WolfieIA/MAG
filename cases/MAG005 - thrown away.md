@@ -2,10 +2,10 @@
 tags:
   - case
 date: 2009-02-23
-location: 
-witness:
+location:
+  - "[[lancaster road, walthamstowe]]"
+witness: "[[kieran woodward]]"
 ---
-- witness - [[kieran woodward]]
-- location - [[lancaster road, walthamstowe]]
 ## main points
+- [[bag of dolls]] found
 - 
