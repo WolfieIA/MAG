@@ -1,6 +1,7 @@
 ---
 tags:
   - case
+  - tea
 date: 2013-07-28
 location:
   - "[[nottinghill, london]]"
@@ -18,3 +19,5 @@ witness: "[[dominic swain]]"
 - went to [[pinhole books]], met [[mary keay]]
 	- study with desk containing papers, fishing wire and safety razor
 	- painting of an eye with *“Grant us the sight that we may not know. Grant us the scent that we may not catch. Grant us the sound that we may not call."* written on the bottom
+		- crossed out in transcript
+		- quote related to hallucinations described - lights, scent 

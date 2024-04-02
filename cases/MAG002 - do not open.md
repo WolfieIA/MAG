@@ -1,6 +1,7 @@
 ---
 tags:
   - case
+  - tea
 date: 1998-02-21
 location:
   - "[[bournemouth]]"

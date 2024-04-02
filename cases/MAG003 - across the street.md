@@ -3,6 +3,7 @@ tags:
   - case
   - smoke
   - missing
+  - tea
 date: 2007-07-01
 location:
   - "[[clapham, london]]"
