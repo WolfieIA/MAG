@@ -23,4 +23,4 @@ witness: "[[dominic swain]]"
 		- quote related to hallucinations described - lights, scent, clattering
 	- small animal bones fall out of book as it passes through the shadows
 - image of stark in night sky, branching pattern aka lichtenberg figure
-- met
+	- 
