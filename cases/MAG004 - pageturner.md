@@ -7,4 +7,6 @@ location:
 witness: "[[dominic swain]]"
 ---
 ## main points
+- went to see matinee performance of *the trojan women*
+		> isnt it
 - 
