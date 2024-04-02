@@ -4,6 +4,7 @@ tags:
   - smoke
   - missing
 date: 2007-07-01
+location:
 ---
 - witness - [[amy patel]]
 - location - [[clapham, london]]

@@ -1,5 +1,5 @@
 ```dataview
 table 
-from #witness and #
+from #witness
 ```
 

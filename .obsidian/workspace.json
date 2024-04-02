@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!directory/witness list.md",
+                "file": "locations/clapham, london.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!directory/witness list.md",
+                "file": "locations/clapham, london.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!directory/witness list.md",
+                "file": "locations/clapham, london.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!directory/witness list.md"
+                "file": "locations/clapham, london.md"
               }
             }
           }
@@ -151,16 +151,17 @@
   },
   "active": "6857d627533c3e84",
   "lastOpenFiles": [
+    "cases/MAG003 - across the street.md",
+    "cases/MAG002 - do not open.md",
+    "characters/gertrude robinson.md",
+    "cases/MAG004 - pageturner.md",
+    "cases/MAG005 - thrown away.md",
+    "!directory/witness list.md",
     "locations/amsterdam.md",
     "organisations/breekon and hope.md",
-    "cases/MAG003 - across the street.md",
-    "lancaster road, walthamstowe.md",
-    "cases/MAG005 - thrown away.md",
-    "cases/MAG002 - do not open.md",
-    "cases/MAG004 - pageturner.md",
+    "locations/lancaster road, walthamstowe.md",
     "!directory/cases by date.md",
     "characters/jonathan sims.md",
-    "characters/gertrude robinson.md",
     "amsterdam]] , [[bournemouth.md",
     "locations/bournemouth.md",
     "artifacts/do not open coffin.md",
@@ -176,7 +177,6 @@
     "characters/witness/joshua gillespie.md",
     "characters/witness/timothy hodge.md",
     "characters/witness/trevor herbert.md",
-    "organisations/magnus institute.md",
     "templates",
     "characters/witness",
     "!directory",
