@@ -1,0 +1,6 @@
+---
+tags: 
+status:
+  - dead
+---
+- 

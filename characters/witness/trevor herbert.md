@@ -13,5 +13,5 @@ tags:
 - his mother was killed by his father
 - his father didn't go to jail
 - 4 months, and then the father died by drinking
-- 13 at that point, his brother was 15
+- 13 at that point, his brother, called [[nigel herbert]], was 15
 - they decided to run away

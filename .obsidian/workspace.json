@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG005 - thrown away.md",
+                "file": "!directory/cases by date.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0414220ad547cf48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cases/MAG003 - across the street.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c3ef05555057c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "cases/MAG010 - vampire killer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdebbdfeefb35d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,14 +185,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cdebbdfeefb35d32",
+  "active": "1c3ef05555057c99",
   "lastOpenFiles": [
-    "cases/MAG010 - vampire killer.md",
-    "organisations/magnus institute.md",
-    "cases/MAG005 - thrown away.md",
-    "artifacts/bag of dolls.md",
+    "cases/MAG003 - across the street.md",
     "conflict-files-obsidian-git.md",
     "cases/MAG004 - pageturner.md",
+    "cases/MAG002 - do not open.md",
+    "cases/MAG001 - anglerfish.md",
+    "!directory/cases by date.md",
+    "cases/MAG005 - thrown away.md",
+    "cases/MAG010 - vampire killer.md",
+    "characters/sylvia mcdonald.md",
+    "organisations/magnus institute.md",
+    "artifacts/bag of dolls.md",
     "characters/mary keay.md",
     "pinhole books.md",
     "characters/archivists/elias bouchard.md",
@@ -193,15 +210,10 @@
     "artifacts/the table.md",
     "artifacts/do not open coffin.md",
     "characters/archivists/gertrude robinson.md",
-    "cases/MAG003 - across the street.md",
-    "cases/MAG002 - do not open.md",
-    "cases/MAG001 - anglerfish.md",
     "characters/jurgen leitner.md",
     "cases/MAG006 - squirm.md",
     "characters/witness/kieran woodward.md",
     "locations/old fishmarket close, edinburgh.md",
-    "locations/bournemouth.md",
-    "locations/morden.md",
     "templates",
     "characters/witness",
     "!directory",
