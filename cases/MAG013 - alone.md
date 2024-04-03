@@ -59,6 +59,17 @@ witness: "[[naomi herne]]"
 - she got back up and ran towards the chapel (door was open, chain was down)
 - inside the chapel was a field, and stretched for miles
 - she was scared, ran off
+- she ran through the graveyard, despite the fog trying to pull her down
+- she heard evan's voice, saying turn left
+- she turns left, and ran, then gets hit by a car
+- she then goes to a hospital
+
+- notes from archivist
+     - the Lukas family didn't want to take
+     - she had a car crash into a [[michael getty]]
+     - taken to sittingbourne hospital
+     - no cemeteries matching her description anywhere near, or any fog
+     - the headstone has a cross and the word "forgotten"
 
 ## quotes
 - 

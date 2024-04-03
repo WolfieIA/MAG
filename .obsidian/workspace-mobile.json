@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG013 - alone.md",
+                "file": "cases/MAG014 - piecemeal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "cases/MAG013 - alone.md",
+            "file": "cases/MAG014 - piecemeal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "cases/MAG013 - alone.md",
+            "file": "cases/MAG014 - piecemeal.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "cases/MAG013 - alone.md"
+            "file": "cases/MAG014 - piecemeal.md"
           }
         }
       }
@@ -133,8 +133,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "690e78c5c8b15e8d",
+  "active": "f91709260cfa59a6",
   "lastOpenFiles": [
+    "cases/MAG013 - alone.md",
     "characters/others/pastor david.md",
     "/characters/others/pastor david.md",
     "characters/witness/naomi herne.md",
