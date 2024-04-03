@@ -1,7 +1,7 @@
 ---
 tags:
   - case
-date: 
+date: 2024-04-03
 location: 
 witness: "[[naomi herne]]"
 ---
