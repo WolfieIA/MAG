@@ -1,9 +1,9 @@
 ---
 tags:
   - case
-date: 
+date: 2016-01-13
 location: 
-witness:
+witness: "[[naomi herne]]"
 ---
 ## main points
 - 
