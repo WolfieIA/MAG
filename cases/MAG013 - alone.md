@@ -43,7 +43,11 @@ witness: "[[naomi herne]]"
     - cannot call, no service
     - heavy rain, soaked through her bag and spoilt her phone
     - she keeps walking, finds nothing but darkness
-    - 
+- rain stopped, and the fog was following her
+- felt malicious, made her feel forsaken
+- she started running, and ran to a grass area (strayed off the road)
+- the ground was not wet, but it was damp from the mist
+- 
 
 ## quotes
 - 
