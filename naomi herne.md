@@ -1,0 +1,5 @@
+- not the social type, more comfortable alone
+- father died at 5 years old, mother spent so much time workihng
+- wasn’t noticed at school
+- went to university at leeds
+- sometimes, being alone was lonely
