@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "naomi herne.md",
+                "file": "pastor david.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "naomi herne.md",
+            "file": "pastor david.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "naomi herne.md",
+            "file": "pastor david.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "naomi herne.md"
+            "file": "pastor david.md"
           }
         }
       }
@@ -135,11 +135,11 @@
   },
   "active": "690e78c5c8b15e8d",
   "lastOpenFiles": [
-    "cases/MAG013 - alone.md",
     "naomi herne.md",
+    "pastor david.md",
+    "cases/MAG013 - alone.md",
     "cases/MAG012 - first aid.md",
     "characters/witness/naomi herne.md",
-    "pastor david.md",
     "cases/MAG001 - anglerfish.md",
     "locations/old fishmarket close, edinburgh.md",
     "!directory/cases by date.md",
