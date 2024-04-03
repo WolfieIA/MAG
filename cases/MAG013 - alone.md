@@ -26,7 +26,18 @@ witness: "[[naomi herne]]"
 - evan was not on good terms with family, cause they were very religious
 - never met or visited them, but she must have been known to be invited.
     - something about this is fishy...
-- 
+- family was very rich
+- moorland house
+    - house was very large and old
+    - high gate separating it from main road
+    - trees were bending ominously when she parked
+    - there's a mausoleum, last resting place
+- evan's father looked like evan without joy and affection
+    - only words were "my son is in there. he is dead"
+- all of the relatives had the same expression as the father, eyes full of something dark
+- they did not speak, it was very silent
+- evan's face had no peace, it was hard and r
+
 
 ## quotes
 - 
