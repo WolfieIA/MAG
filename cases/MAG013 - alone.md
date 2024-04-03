@@ -47,7 +47,18 @@ witness: "[[naomi herne]]"
 - felt malicious, made her feel forsaken
 - she started running, and ran to a grass area (strayed off the road)
 - the ground was not wet, but it was damp from the mist
-- 
+- she reaches a small cemetery and chapel
+- the chapel was locked by a sturdy iron chain
+- rash decision, started screaming but it was muffled by the fog
+- she wanted to grab a stone from a grave in the graveyard
+- she sees that the grave was open, it was not dug up, and ready for a burial
+- the bottom has a coffin, and inside was empty
+- all the graves were open and empty
+- the fog began to weigh her down, trying to pull her to the waiting pit
+- she grabs the headstone and dragged herself away from the grave
+- she got back up and ran towards the chapel (door was open, chain was down)
+- inside the chapel was a field, and stretched for miles
+- she was scared, ran off
 
 ## quotes
 - 
