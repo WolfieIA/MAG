@@ -14,7 +14,7 @@ witness: "[[naomi herne]]"
 	- creatures of community by nature
 	- he was worried that naomi would get lost
 - afterwards, got a job as a science technician
-- interviewing for jobs, and met evan, her fiance
+- interviewing for jobs, and met [[evan lukas]], her fiance
 	- both of them were interviewing for lab assistant in one of the UCL biochem departments
 	- he got the job, but she was happy
 - they went out, lived together
@@ -36,8 +36,14 @@ witness: "[[naomi herne]]"
     - only words were "my son is in there. he is dead"
 - all of the relatives had the same expression as the father, eyes full of something dark
 - they did not speak, it was very silent
-- evan's face had no peace, it was hard and r
-
+- evan's face had no peace, it was hard and full of reproach like the family faces
+- an old man told her to leave, because the burial is a family affair
+- she drives off, and gets into a car crash
+- wakes up in a field, at 11:12pm
+    - cannot call, no service
+    - heavy rain, soaked through her bag and spoilt her phone
+    - she keeps walking, finds nothing but darkness
+    - 
 
 ## quotes
 - 
