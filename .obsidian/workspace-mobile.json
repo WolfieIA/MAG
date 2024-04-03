@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!directory/cases by date.md",
+                "file": "cases/MAG013 - alone.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "!directory/cases by date.md",
+            "file": "cases/MAG013 - alone.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "!directory/cases by date.md",
+            "file": "cases/MAG013 - alone.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "!directory/cases by date.md"
+            "file": "cases/MAG013 - alone.md"
           }
         }
       }
@@ -134,5 +134,12 @@
     }
   },
   "active": "690e78c5c8b15e8d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "cases/MAG005 - thrown away.md",
+    "cases/MAG012 - first aid.md",
+    "cases/MAG013 - alone.md",
+    "artifacts/the table.md",
+    "artifacts/bag of dolls.md",
+    "!directory/cases by date.md"
+  ]
 }
