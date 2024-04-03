@@ -8,6 +8,6 @@ witness: "[[kieran woodward]]"
 ---
 ## main points
 ### bags
-1. [[bag of dolls]]
+1. bag of dolls
 2. long strip of paper with *"Lord’s Prayer, the Our Father"* written over and over again."
-3. 
+3. bag of teeth

@@ -7,7 +7,7 @@ location:
 witness: "[[lesere saraki]]"
 ---
 ## main points
-- during 23rd december, 2 days before christmas
+- during 23rd december 2011, 2 days before christmas
 - not as bad of a night
 - half-past one, they get a radio saying they have a pair of severe burn victims brought in
 - when she arrived, she say a doctor assessing his burns, [[kayleigh grice]]
@@ -36,7 +36,41 @@ witness: "[[lesere saraki]]"
 	- not in english
 	- "Asag, veepalach, the lightless flame."
 	- eyes still closed, lips not barely moving
-	- 
+- at 3am
+	- reception was empty, which is weird
+	- waiting room should have been full, but it's deserted
+	- everyone was essentially missing
+- when she returned to waiting room for 3rd time
+	- she heard growling of an animal
+	- floor was shaking
+	- vending machines were shaking violently and drinks exploded
+	- the handle was very hot, cannot get out through door
+- she walk past the man, and hear the chanting get louder
+	- eyes were open, bloodshot
+- she was gonna close his mouth, and gerard grabs her by the wrist
+- his grip was very strong, and there was heat like his skin was still burning
+- he was trying to protect her, touching the man was a bad idea
+- gerard was looking for a small book bound in red leather, and a brass pendant that he was wearing
+	- none came in
+- he went to grab a sterile scalpel from the supply cupboard
+- "Yes. For you, better beholding than the lightless flame." -gerard keay
+- he took the scalpel, muttered some words, and put it in his throat
+- smell of rotten meat and sizzling sound
+- flesh blackened and cracked, bandages curled, and body cremated itself to ash
+- gerard keay was treated for a further four days, before being discharged into care of his mother.
+	- his mother is... dead?
+	- someone else came to pick him up? maybe gertrude? they both seem interested in the [[jurgen leitner]] books?
+- she gets the feeling that she's being watched when she's alone.
+
+- notes from archivist
+	- asag is the name of a demon, sumerian mythology, related to disease and corruption
+	- asag was able to boil fish alive in their rivers
+	- veepalach could be wypalac, meaning cauterize or brand
+	- gerard keay's second time, check [[MAG004 - pageturner]]
+	- hospital cctv footage had issues
+		- at 03:11:22, everyone in the room stood up and calmly exited the doors. 
+		- everyone only returns at 03:27:12, over 15 minutes later
+		- at 03:22:52, feed cuts out, and is replaced with a close-up of a human eye, staring back
 
 ## quotes
 - 
