@@ -3,7 +3,7 @@ tags:
   - case
 date: 
 location: 
-witness:
+witness: "[[naomi herne]]"
 ---
 ## main points
 - the previous recording was corrupted, not salvageable.
