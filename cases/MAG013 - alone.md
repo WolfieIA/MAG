@@ -21,6 +21,12 @@ witness: "[[naomi herne]]"
 - she very happy, and proposed
 - 2015, evan dies, congenital heart disease.
 - she had no friends to talk about this too
+- no memory of week between death and funeral
+- she went to a house in Kent, address probably from someone in evan's family
+- evan was not on good terms with family, cause they were very religious
+- never met or visited them, but she must have been known to be invited.
+    - something about this is fishy...
+- 
 
 ## quotes
 - 
