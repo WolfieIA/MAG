@@ -15,6 +15,7 @@
               "state": {
                 "file": "!directory/cases by date.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
