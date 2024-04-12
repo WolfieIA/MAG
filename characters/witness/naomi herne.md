@@ -1,0 +1,9 @@
+- not the social type, more comfortable alone
+- father died at 5 years old, mother spent so much time workihng
+- wasn’t noticed at school
+- went to university at leeds
+- sometimes, being alone was lonely
+- only person worrying was [[pastor david]]
+- left leeds with a first in chemistry and no real friends in 2013
+- had two boyfriends in the past, short-lived
+- fiance, evan, dies in 2015 by congenital heart disease

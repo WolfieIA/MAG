@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "603b5970dbf01c5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aaa4f8ff87000d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "690e78c5c8b15e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cases/MAG014 - piecemeal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80524c05a37e2694",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f91709260cfa59a6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "013790359959088f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "943ab9115dc9bd76",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e1758364ba2ddbd8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d14ba9972b443264",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d36355f883a2f3c5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "cases/MAG014 - piecemeal.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7d3918261f731068",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "cases/MAG014 - piecemeal.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "32e83b0cf92096fb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "cases/MAG014 - piecemeal.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "690e78c5c8b15e8d",
+  "lastOpenFiles": [
+    "cases/MAG013 - alone.md",
+    "characters/others/pastor david.md",
+    "/characters/others/pastor david.md",
+    "characters/witness/naomi herne.md",
+    "/characters/witness/naomi herne.md",
+    "/cases/MAG013 - alone.md",
+    "!directory/cases by date.md",
+    "Untitled.md"
+  ]
+}
