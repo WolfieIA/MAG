@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cases/MAG011 - dreamer.md",
+                "file": "cases/MAG001 - anglerfish.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cases/MAG011 - dreamer.md",
+                "file": "cases/MAG001 - anglerfish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cases/MAG011 - dreamer.md",
+                "file": "cases/MAG001 - anglerfish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cases/MAG011 - dreamer.md"
+                "file": "cases/MAG001 - anglerfish.md"
               }
             }
           }
@@ -166,14 +166,16 @@
   "active": "c64f8960312e6c49",
   "lastOpenFiles": [
     "cases/MAG004 - pageturner.md",
-    "cases/MAG003 - across the street.md",
-    "cases/MAG001 - anglerfish.md",
     "cases/MAG005 - thrown away.md",
-    "cases/MAG006 - squirm.md",
+    "cases/MAG009 - a father's love.md",
+    "cases/MAG010 - vampire killer.md",
     "cases/MAG011 - dreamer.md",
     "cases/MAG012 - first aid.md",
-    "cases/MAG014 - piecemeal.md",
     "cases/MAG013 - alone.md",
+    "cases/MAG003 - across the street.md",
+    "cases/MAG001 - anglerfish.md",
+    "cases/MAG006 - squirm.md",
+    "cases/MAG014 - piecemeal.md",
     "!directory/cases by date.md",
     "conflict-files-obsidian-git.md",
     "locations/brixton, london.md",
@@ -184,8 +186,6 @@
     "characters/witness/timothy hodge.md",
     "!directory/witness list.md",
     "cases/MAG007 - the piper.md",
-    "cases/MAG010 - vampire killer.md",
-    "cases/MAG009 - a father's love.md",
     "characters/others/graham folger.md",
     "characters/others/gerard keay.md",
     "characters/others",
