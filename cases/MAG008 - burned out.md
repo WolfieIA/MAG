@@ -9,7 +9,8 @@ witness: [[ivo lensik]]
 - appearance of [[raymond fielding]] on the evening of the 3rd night
 - empty lot was a large tree
 - smell of burning human hair => left burn mark on wooden floor
-- fell and 
+- fell and got a concussion
+- lea
 ### family background
 - history of schizophrenia
 - dad obsessed with fractals
