@@ -12,3 +12,5 @@ witness: [[ivo lensik]]
 ### family background
 - history of schizophrenia
 - dad obsessed with fractals
+- was stalked?
+  > *"there were bones in his hands"*
